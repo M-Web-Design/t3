@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" width="300.5" height="60.5" viewBox="0 0 300.5 60.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4b3d90;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="300.25 60.25 .25 60.25 .25 .25 300.25 .25 300.25 48.25"/>
+</svg>
