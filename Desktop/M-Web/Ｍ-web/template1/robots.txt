@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /wp2024/wp-admin/
-Allow: /wp2024/wp-admin/admin-ajax.php
-
-Sitemap: https://www.yachiyo-egg.com/sitemap.xml
-Sitemap: https://www.yachiyo-egg.com/sitemap.rss
